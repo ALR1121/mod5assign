@@ -1,0 +1,4 @@
+.root {
+    -fx-ImageView-image: url("image/basic_profile.jpeg");
+    -fx-ImageView-size: cover, auto;
+}
